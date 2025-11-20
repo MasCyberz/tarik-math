@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Game from "./game";
+import Game from "./Game";
 import StartScreen from "./components/StartScreen";
 import NameInputScreen from "./components/NameInputScreen";
 import Footer from "./components/Footer";
